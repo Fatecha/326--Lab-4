@@ -1,2 +1,1 @@
-shiboleth 
-ooops
+shiboleth
